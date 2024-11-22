@@ -26,6 +26,6 @@ URL : http://localhost:8080/login
 
 Video funcionalidades : https://youtu.be/p_j5-YgNaqs
 
-Video Pitch : 
+Video Pitch : https://www.youtube.com/watch?v=rszOuzFSJ3c
 
 
