@@ -24,4 +24,8 @@ Senha : admin
 
 URL : http://localhost:8080/login
 
+Video funcionalidades : https://youtu.be/p_j5-YgNaqs
+
+Video Pitch : 
+
 
