@@ -58,7 +58,7 @@
         <tr th:each="registro : ${registros}">
             <td th:text="${registro.id}"></td>
             <td th:text="${registro.veiculo.modelo}"></td>
-            <td th:text="${registro.estacaoCarregamento.nome}"></td>
+            <td th:text="${registro.estacaoCarregamento.id}"></td>
             <td th:text="${registro.dataHoraInicio}"></td>
             <td th:text="${registro.dataHoraFim}"></td>
             <td th:text="${registro.energiaUtilizada}"></td>
